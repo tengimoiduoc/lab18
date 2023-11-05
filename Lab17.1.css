@@ -1,0 +1,22 @@
+.carousel-item {
+  height: 100vh;
+  color: #fff;
+}
+
+.bg-img-1 {
+  background-size: cover;
+  background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)),
+    url(IMAGES_FILES/david-marcu-78A265wPiO4-unsplash.jpg);
+}
+
+.bg-img-2 {
+  background-size: cover;
+  background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)),
+    url(IMAGES_FILES/henry-be-IicyiaPYGGI-unsplash.jpg);
+}
+
+.bg-img-3 {
+  background-size: cover;
+  background-image: linear-gradient(rgb(0, 0, 0, 0.4), rgb(0, 0, 0, 0.4)),
+    url(IMAGES_FILES/lukasz-szmigiel-jFCViYFYcus-unsplash.jpg);
+}
